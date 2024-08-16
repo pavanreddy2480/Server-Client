@@ -1,11 +1,10 @@
 # Contributers
 
-* M.Pavan Kumar Reddy 112001025
-* Likhitha            112001029
+* M.Pavan Kumar Reddy 
+* Likhitha            
 
 ## File Organization
 
-Pavan_Likhitha_Lab-3 is the root folder
 
 folder **A** contains server.py and client.py which are implemented using threading
 
